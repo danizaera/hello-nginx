@@ -1,0 +1,6 @@
+[submodule "pagina-web"]
+	path = pagina-web
+	url = git@github.com:danizaera/pagina-web.git
+[submodule "content"]
+	path = content
+	url = git@github.com:danizaera/pagina-web.git
